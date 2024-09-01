@@ -7,21 +7,25 @@ Analyze supply chain efficiency and identify opportunities for improvement.
 
 ### 🔍 Top Product:
 Skincare products led the revenue with $241,628.16.
+
 Opportunity: Focus marketing and inventory strategies to boost profits.
 
 
 ### 🎯 Key Demographic:
 The "Unknown" group had the highest sales, followed by female customers.
+
 Action: Improve data accuracy and better target female customers.
 
 
 ### 🏭 Best Supplier:
 Supplier 1 is the most efficient with a 12.59-day lead time.
+
 Strategy: Strengthen partnerships to reduce lead times further.
 
 
 ### 📦 Shipping Costs:
 Carrier B is costly in Kolkata/Mumbai; Carrier C offers the lowest costs.
+
 Action: Optimize carrier selection to lower shipping expenses.
 
 
