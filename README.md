@@ -37,8 +37,6 @@ Strategic supplier and carrier management to optimize costs and improve efficien
 
 ### Tools Used:
 Power BI for data visualization and analysis.
-Excel for data processing.
-SQL for data extraction and querying.
-Excited to apply these insights to drive better business outcomes!
+
 
 #PowerBI #SupplyChainManagement #DataAnalysis #Logistics #BusinessIntelligence #Learning #ProjectManagement
